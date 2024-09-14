@@ -1,0 +1,15 @@
+[
+    {
+      "scenario": "Copy file1.txt to file2.txt in the current directory.",
+      "command": "copy file1.txt file2.txt",
+      "hint": "Use the 'copy <source> <destination>' syntax.",
+      "difficulty": "Beginner"
+    },
+    {
+      "scenario": "Copy all `.txt` files from `C:\\docs` to `D:\\backup`.",
+      "command": "copy C:\\docs\\*.txt D:\\backup",
+      "hint": "Wildcard (*) can help copy multiple files.",
+      "difficulty": "Intermediate"
+    }
+  ]
+  

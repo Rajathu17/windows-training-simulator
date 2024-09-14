@@ -1,0 +1,6 @@
+{
+    "welcome_message": "¡Bienvenido al Simulador de Entrenamiento de Windows!",
+    "invalid_command": "Comando no válido. Inténtalo de nuevo.",
+    "success_message": "¡Bien hecho! Has completado esta tarea.",
+    "error_message": "Ocurrió un error. Por favor, revisa tu entrada."
+}

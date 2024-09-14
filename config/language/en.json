@@ -1,0 +1,6 @@
+{
+    "welcome_message": "Welcome to Windows Training Simulator!",
+    "invalid_command": "Invalid command. Please try again.",
+    "success_message": "Well done! You've completed this task.",
+    "error_message": "An error occurred. Please review your input."
+}
